@@ -1,4 +1,3 @@
-## 📦 E-Commerce System
 
 ### 🧩 Overview  
 The **E-Commerce System** is a fully object-oriented console-based shopping platform built in **C# (.NET)**.  
